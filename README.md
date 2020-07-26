@@ -4,4 +4,4 @@
 
 ##### I am a Dreamer AKA an Undocumented Student #HomeIsHere
 
-###### Curently learning Python and javascript
+###### Currently learning Python and javascript
